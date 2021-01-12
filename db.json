@@ -159,6 +159,14 @@
       "restaurantId": "green-food"
     },
     {
+      "id": "ceasar2",
+      "imagePath": "assets/img/foods/ceasar.png",
+      "name": "Salada Ceasar",
+      "description": "Clássica salada ceasar.",
+      "price": 33.9,
+      "restaurantId": "green-food"
+    },
+    {
       "id": "sunday",
       "imagePath": "assets/img/foods/sunday.png",
       "name": "Mega Sunday",
